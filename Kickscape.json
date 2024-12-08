@@ -9,7 +9,8 @@
       "Retailer": "Air Jordan",
       "Description": "Iconic and timeless, the Jordan 4s blend classic design with unmatched comfort, featuring a unique mesh and leather construction. Known for its signature winged eyelets and visible Air cushioning, this model is a staple for any sneaker enthusiast.",
       "Website": "https://stockx.com/air-jordan-4-retro-military-black",
-      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/jordan4.jpeg"
+      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/jordan4.jpeg",
+      "StoreAddress": "1617 Walnut St, Philadelphia, PA 19103"
     },
     {
       "Name": "New Balance 2002R",
@@ -20,7 +21,8 @@
       "Retailer": "New Balance",
       "Description": "A rugged yet refined take on the 2002R, this model combines high-quality materials with a deconstructed aesthetic. The Protection Pack offers a unique, distressed look that merges modern streetwear style with New Balance’s famed comfort and support.",
       "Website": "https://stockx.com/new-balance-2002r-protection-pack-grey",
-      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/nb.jpeg"
+      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/nb.jpeg",
+      "StoreAddress": "123 Guest St, Brighton, MA 02135"
     },
     {
       "Name": "Nike Air Force 1",
@@ -31,7 +33,8 @@
       "Retailer": "Nike",
       "Description": "A streetwear legend, the Nike Air Force 1s are known for their clean lines, leather upper, and iconic Air-Sole cushioning. This shoe is versatile, stylish, and perfect for any outfit, making it a go-to choice for sneakerheads and casual wearers alike.",
       "Website": "https://stockx.com/nike-air-force-1-low-white-07",
-      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/af1.jpeg"
+      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/af1.jpeg",
+      "StoreAddress": "3485 SW Knowlton Rd, Beaverton, OR 97005"
     },
     {
       "Name": "Dunk Low",
@@ -42,7 +45,8 @@
       "Retailer": "Nike",
       "Description": "Combining retro flair with contemporary appeal, the Nike Dunk Lows feature a low-top silhouette with durable leather and a padded collar for comfort. Originally a basketball shoe, it has evolved into an everyday essential for style-conscious individuals.",
       "Website": "https://stockx.com/nike-dunk-low-retro-white-black-2021?size=11",
-      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/dunks.jpeg"
+      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/dunks.jpeg",
+      "StoreAddress": "3485 SW Knowlton Rd, Beaverton, OR 97005"
     },
     {
       "Name": "Yeezy Slide",
@@ -53,7 +57,8 @@
       "Retailer": "Adidas",
       "Description": "Minimalistic and ultra-comfortable, Yeezy Slides are designed with a molded EVA foam that ensures cushioning and style. Known for their simplicity and ergonomic design, they’re perfect for both casual and upscale settings.",
       "Website": "https://stockx.com/adidas-yeezy-slide-black-onyx",
-      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/yeezy.jpeg"
+      "Image": "https://raw.githubusercontent.com/longtran3/JSONProjectsIT315/master/yeezy.jpeg",
+      "StoreAddress": "565 5th Ave, New York, NY 10017"
     }
   ],
   "Status": "OK"
